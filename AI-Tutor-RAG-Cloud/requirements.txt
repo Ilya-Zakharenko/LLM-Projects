@@ -1,0 +1,9 @@
+python-telegram-bot
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+python-dotenv
+numpy
+tqdm
+openai

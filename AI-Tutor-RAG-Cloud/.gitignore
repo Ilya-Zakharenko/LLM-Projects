@@ -1,0 +1,18 @@
+# venv
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Секреты
+.env
+
+# Логи
+logs/
+
+# Тяжёлые данные
+data/index/
+data/processed/
+data/user_uploads/
